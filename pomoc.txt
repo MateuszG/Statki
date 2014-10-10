@@ -1,0 +1,16 @@
+Witaj w pomocy!
+Gra polega na zestrzeleniu w jak najszybszym czasie statkow komputera.
+Pamietaj, aby nick nie zawieral cyfer ani spacji.
+Podajac wspolrzedne podajesz najpierw numer kolumny, pozniej wiersza.
+Wygrywasz, kiedy pierwszy zestrzelisz statki komputera, a Twoje miejsce
+w rankingu jest zalezne od ilosci ruchow, ktore wykonales w czasie
+calej gry.
+Uzytkowniku, pamietaj!
+Kiedy juz trafisz w jedno miejsce, nie trafiaj w nie ponownie! 
+Zaszkodzisz tylko pracy programu :)
+Kiedy program pyta Cie o liczbe, podawaj liczbe! 
+Tworca wierzy, ze uzytkownik jest inteligentny
+i potrafi odroznic cyfre od litery ;)
+Jezeli twierdzisz, ze cos w programie nie dziala, 
+to znaczy ze nie zastosowales sie
+do zalecen tworcy, wiec sam jestes sobie winny :)
